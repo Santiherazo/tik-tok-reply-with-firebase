@@ -1,0 +1,72 @@
+[
+    {
+      "titulo": "Gobierno colombiano propone reforma fiscal para aumentar recaudo",
+      "categoria": "Economía",
+      "descripcion_corta": "El gobierno de Colombia propone una reforma fiscal para aumentar el recaudo y reducir el déficit fiscal.",
+      "descripcion": "El gobierno de Colombia presentó una propuesta de reforma fiscal que busca aumentar el recaudo y reducir el déficit fiscal. La propuesta incluye medidas como la ampliación de la base gravable del impuesto de renta, la eliminación de algunas exenciones tributarias y la implementación de un impuesto a la riqueza.",
+      "url_imagen": "https://www.elcolombiano.com/documents/10157/0/1196x672/0b0/1196/none/11347/VOGZ/image_content_11982062_20210526215725.jpg"
+    },
+    {
+      "titulo": "Colombia reporta récord de contagios de COVID-19 en un solo día",
+      "categoria": "Salud",
+      "descripcion_corta": "Colombia registra un récord de contagios de COVID-19 en un solo día, con más de 30,000 casos nuevos.",
+      "descripcion": "Colombia registró un récord de contagios de COVID-19 en un solo día, con más de 30,000 casos nuevos. Las autoridades sanitarias han atribuido este aumento a la propagación de la variante Delta del virus y han reiterado la importancia de mantener las medidas de bioseguridad para prevenir la propagación del virus.",
+      "url_imagen": "https://www.rcnradio.com/sites/default/files/styles/full_image/public/articulo/2021/07/28/nota_coronavirus_colombia.jpg?itok=kO_nR0xg"
+    },
+    {
+      "titulo": "Presidente de Colombia anuncia nuevo plan de empleo para jóvenes",
+      "categoria": "Política",
+      "descripcion_corta": "El presidente de Colombia anuncia un nuevo plan de empleo para jóvenes que busca incentivar la contratación en el sector privado.",
+      "descripcion": "El presidente de Colombia, Iván Duque, anunció un nuevo plan de empleo para jóvenes que busca incentivar la contratación en el sector privado. El plan incluye incentivos fiscales para las empresas que contraten jóvenes y capacitación laboral para los jóvenes interesados en el programa.",
+      "url_imagen": "https://www.rcnradio.com/sites/default/files/styles/full_image/public/articulo/2021/08/25/empleo-jovenes-colombia.jpg?itok=kmdn86MZ"
+    },
+    {
+        "titulo": "Duque anuncia plan de inversiones para la reactivación económica",
+        "categoria": "Economía",
+        "descripcion_corta": "El presidente de Colombia anuncia un plan de inversiones para la reactivación económica del país.",
+        "descripcion": "El presidente de Colombia, Iván Duque, anunció un plan de inversiones por $14 billones de pesos para la reactivación económica del país. El plan incluye proyectos de infraestructura, turismo, energías renovables, vivienda, entre otros.",
+        "url_imagen": "https://www.rcnradio.com/sites/default/files/styles/full_image/public/articulo/2022/09/02/duque-anuncia-plan-de-inversiones-para-la-reactivacion-economica.jpg?itok=YUHmR0sT"
+      },
+      {
+        "titulo": "Colombia logra acuerdos comerciales con nuevos mercados internacionales",
+        "categoria": "Comercio",
+        "descripcion_corta": "Colombia logra acuerdos comerciales con nuevos mercados internacionales para ampliar sus exportaciones.",
+        "descripcion": "Colombia logró acuerdos comerciales con nuevos mercados internacionales como Corea del Sur, Canadá, Australia y Nueva Zelanda para ampliar sus exportaciones y diversificar su oferta exportable. El gobierno colombiano espera que estos acuerdos generen oportunidades de negocio para los sectores agroindustrial, manufacturero y de servicios.",
+        "url_imagen": "https://www.elespectador.com/wp-content/uploads/2022/08/exportaciones.jpg"
+      },
+      {
+        "titulo": "Colombia reduce tasa de desempleo en julio de 2022",
+        "categoria": "Economía",
+        "descripcion_corta": "Colombia reduce la tasa de desempleo en julio de 2022, alcanzando un 12,4%.",
+        "descripcion": "Colombia redujo la tasa de desempleo en julio de 2022, alcanzando un 12,4% frente al 14,2% registrado en el mismo mes del año anterior. Según el Dane, esta reducción se debe en parte a la reactivación de sectores como el comercio, la construcción y los servicios.",
+        "url_imagen": "https://www.portafolio.co/files/article_main/files/cropped/2022/08/29/77b78f423f8e8b18ab1e0da20fbb0117_crop_640x360.jpg"
+      },
+      {
+        "titulo": "Estudiantes colombianos obtienen reconocimiento internacional en matemáticas",
+        "categoria": "Educación",
+        "descripcion_corta": "Estudiantes colombianos obtienen reconocimiento internacional en la Olimpiada Internacional de Matemáticas.",
+        "descripcion": "Un grupo de estudiantes colombianos obtuvo un reconocimiento internacional en la Olimpiada Internacional de Matemáticas al obtener medallas de plata y bronce. La delegación colombiana estuvo conformada por estudiantes de diferentes regiones del país y fue entrenada por la Sociedad Colombiana de Matemáticas.",
+        "url_imagen": "https://www.elespectador.com/resizer/2j-S4ES8Ma7bPB2XBMMMuXMbsbc=/525x350/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/ZIYWBD24TNHKPJYKRBO5P7FBQM.jpg"
+      },
+      {
+        "titulo": "Colombia, a un paso de legalizar la marihuana recreativa",
+        "categoria": "Política",
+        "descripcion_corta": "Colombia está a un paso de legalizar la marihuana recreativa, luego de que la Corte Constitucional declarara inconstitucional la prohibición del consumo de la planta en espacios públicos.",
+        "descripcion": "Colombia está a un paso de legalizar la marihuana recreativa, luego de que la Corte Constitucional declarara inconstitucional la prohibición del consumo de la planta en espacios públicos. El fallo también permite el cultivo, la producción y la distribución de la marihuana con fines recreativos, siempre y cuando se respeten los derechos de terceros y se garantice la protección de la salud pública.",
+        "url_imagen": "https://www.elespectador.com/wp-content/uploads/2022/09/marihuana-recreativa.jpg"
+      },
+      {
+        "titulo": "Frustran atentado en el sur de Colombia",
+        "categoria": "Seguridad",
+        "descripcion_corta": "Las autoridades colombianas frustraron un atentado en el sur del país, en el que se planeaba atacar a una patrulla policial con explosivos.",
+        "descripcion": "Las autoridades colombianas frustraron un atentado en el sur del país, en el que se planeaba atacar a una patrulla policial con explosivos. Según la Policía Nacional, los responsables del atentado serían miembros de un grupo armado ilegal que opera en la zona. No se reportaron heridos ni víctimas mortales.",
+        "url_imagen": "https://www.elespectador.com/wp-content/uploads/2022/09/atentado-sur-colombia.jpg"
+      },
+      {
+        "titulo": "FARC anuncia su regreso a la lucha armada en Colombia",
+        "categoria": "Política",
+        "descripcion_corta": "Las FARC anunciaron su regreso a la lucha armada en Colombia, argumentando que el gobierno incumplió los acuerdos de paz firmados en 2016.",
+        "descripcion": "Las FARC anunciaron su regreso a la lucha armada en Colombia, argumentando que el gobierno incumplió los acuerdos de paz firmados en 2016. En un comunicado, la guerrilla aseguró que volverán a la resistencia armada debido a la falta de garantías para la participación política y la protección de los derechos humanos en el país.",
+        "url_imagen": "https://www.elespectador.com/wp-content/uploads/2022/09/farc-regreso-lucha-armada.jpg"
+      }    
+]
